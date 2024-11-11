@@ -1,0 +1,13 @@
+{
+  "shell_port": 38749,
+  "iopub_port": 37371,
+  "stdin_port": 58205,
+  "control_port": 33971,
+  "hb_port": 60463,
+  "ip": "127.0.0.1",
+  "key": "719ab01e-78d96c496b8b78c2029693c1",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/netflix-35afe9ee-1f54-4261-a381-93ab1299a318.ipynb"
+}
