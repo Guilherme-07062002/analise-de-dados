@@ -1,0 +1,13 @@
+{
+  "shell_port": 51609,
+  "iopub_port": 42147,
+  "stdin_port": 42517,
+  "control_port": 51961,
+  "hb_port": 55069,
+  "ip": "127.0.0.1",
+  "key": "dc0fe079-eab1cad2be08e91f7f294abf",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/regressao-c4a55285-8ec0-42be-92c8-de5c916a9e4e.ipynb"
+}

@@ -1,0 +1,13 @@
+{
+  "shell_port": 54847,
+  "iopub_port": 57731,
+  "stdin_port": 51653,
+  "control_port": 46291,
+  "hb_port": 34017,
+  "ip": "127.0.0.1",
+  "key": "570c372d-e5815951c346976f75fe6da1",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/clusterizacao-a5757308-98fe-4cbf-b359-a4db1ec9f9da.ipynb"
+}
