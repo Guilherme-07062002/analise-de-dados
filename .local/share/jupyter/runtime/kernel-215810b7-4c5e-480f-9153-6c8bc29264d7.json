@@ -1,0 +1,13 @@
+{
+  "shell_port": 58465,
+  "iopub_port": 39197,
+  "stdin_port": 57773,
+  "control_port": 55679,
+  "hb_port": 46085,
+  "ip": "127.0.0.1",
+  "key": "bfb82976-3a31c7b3bbb46902d324fac2",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/jovyan/acidentes-trabalho-ef9dd2cf-56da-4b96-9fbf-557e25156f7c.ipynb"
+}
